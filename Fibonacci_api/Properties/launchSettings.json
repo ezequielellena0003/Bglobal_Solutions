@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Fibonacci_api": {
+    "Contact_api": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
